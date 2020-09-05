@@ -3,5 +3,5 @@ _site
 Gemfile.lock
 *.gem
 .git
-.jekyll-cache
+.jekyll-cache/*
 vendor
